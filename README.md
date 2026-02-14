@@ -127,7 +127,7 @@ Banner data helps identify:
 
 ## Legal & Compliance
 
-⚠️ **Authorization Required**
+**Authorization Required**
 
 This tool must only be used on networks where you have explicit written authorization. Usage requirements:
 
